@@ -1,0 +1,113 @@
+Dashboard - isLoading: true projects: [] error: null
+index-DJRvTsQX.js:477 Dashboard - isLoading: true projects: [] error: null
+index-DJRvTsQX.js:477 Dashboard - isLoading: false projects: [{…}] error: null
+index-DJRvTsQX.js:48 
+            
+            
+           GET https://mynovelcraft.com/api/projects/4c99828e-b1f5-436d-8440-2e2c10ad0f11/chapters 401 (Unauthorized)
+(anonymous) @ index-DJRvTsQX.js:48
+a @ index-DJRvTsQX.js:48
+j @ index-DJRvTsQX.js:48
+start @ index-DJRvTsQX.js:48
+fetch @ index-DJRvTsQX.js:48
+rl @ index-DJRvTsQX.js:48
+onSubscribe @ index-DJRvTsQX.js:48
+subscribe @ index-DJRvTsQX.js:48
+(anonymous) @ index-DJRvTsQX.js:48
+x1 @ index-DJRvTsQX.js:38
+_u @ index-DJRvTsQX.js:40
+Ia @ index-DJRvTsQX.js:40
+gA @ index-DJRvTsQX.js:40
+Si @ index-DJRvTsQX.js:40
+wv @ index-DJRvTsQX.js:40
+gi @ index-DJRvTsQX.js:38
+(anonymous) @ index-DJRvTsQX.js:40
+index-DJRvTsQX.js:40 TypeError: Cannot read properties of null (reading 'length')
+    at index-DJRvTsQX.js:486:13044
+    at _u (index-DJRvTsQX.js:40:24272)
+    at Ia (index-DJRvTsQX.js:40:42382)
+    at gA (index-DJRvTsQX.js:40:41205)
+    at Si (index-DJRvTsQX.js:40:40254)
+    at wv (index-DJRvTsQX.js:40:36864)
+    at gi (index-DJRvTsQX.js:38:3274)
+    at index-DJRvTsQX.js:40:34246
+em @ index-DJRvTsQX.js:40
+R1.r.callback @ index-DJRvTsQX.js:40
+tv @ index-DJRvTsQX.js:38
+gv @ index-DJRvTsQX.js:40
+Q1 @ index-DJRvTsQX.js:40
+hA @ index-DJRvTsQX.js:40
+gA @ index-DJRvTsQX.js:40
+Si @ index-DJRvTsQX.js:40
+wv @ index-DJRvTsQX.js:40
+gi @ index-DJRvTsQX.js:38
+(anonymous) @ index-DJRvTsQX.js:40
+setTimeout
+i @ index-DJRvTsQX.js:48
+o @ index-DJRvTsQX.js:48
+batch @ index-DJRvTsQX.js:48
+Jn @ index-DJRvTsQX.js:48
+setData @ index-DJRvTsQX.js:48
+onSuccess @ index-DJRvTsQX.js:48
+m @ index-DJRvTsQX.js:48
+Promise.then
+j @ index-DJRvTsQX.js:48
+start @ index-DJRvTsQX.js:48
+fetch @ index-DJRvTsQX.js:48
+rl @ index-DJRvTsQX.js:48
+onSubscribe @ index-DJRvTsQX.js:48
+subscribe @ index-DJRvTsQX.js:48
+(anonymous) @ index-DJRvTsQX.js:48
+x1 @ index-DJRvTsQX.js:38
+_u @ index-DJRvTsQX.js:40
+Ia @ index-DJRvTsQX.js:40
+gA @ index-DJRvTsQX.js:40
+Si @ index-DJRvTsQX.js:40
+wv @ index-DJRvTsQX.js:40
+gi @ index-DJRvTsQX.js:38
+(anonymous) @ index-DJRvTsQX.js:40
+index-DJRvTsQX.js:486 Uncaught TypeError: Cannot read properties of null (reading 'length')
+    at index-DJRvTsQX.js:486:13044
+    at _u (index-DJRvTsQX.js:40:24272)
+    at Ia (index-DJRvTsQX.js:40:42382)
+    at gA (index-DJRvTsQX.js:40:41205)
+    at Si (index-DJRvTsQX.js:40:40254)
+    at wv (index-DJRvTsQX.js:40:36864)
+    at gi (index-DJRvTsQX.js:38:3274)
+    at index-DJRvTsQX.js:40:34246
+(anonymous) @ index-DJRvTsQX.js:486
+_u @ index-DJRvTsQX.js:40
+Ia @ index-DJRvTsQX.js:40
+gA @ index-DJRvTsQX.js:40
+Si @ index-DJRvTsQX.js:40
+wv @ index-DJRvTsQX.js:40
+gi @ index-DJRvTsQX.js:38
+(anonymous) @ index-DJRvTsQX.js:40
+setTimeout
+i @ index-DJRvTsQX.js:48
+o @ index-DJRvTsQX.js:48
+batch @ index-DJRvTsQX.js:48
+Jn @ index-DJRvTsQX.js:48
+setData @ index-DJRvTsQX.js:48
+onSuccess @ index-DJRvTsQX.js:48
+m @ index-DJRvTsQX.js:48
+Promise.then
+j @ index-DJRvTsQX.js:48
+start @ index-DJRvTsQX.js:48
+fetch @ index-DJRvTsQX.js:48
+rl @ index-DJRvTsQX.js:48
+onSubscribe @ index-DJRvTsQX.js:48
+subscribe @ index-DJRvTsQX.js:48
+(anonymous) @ index-DJRvTsQX.js:48
+x1 @ index-DJRvTsQX.js:38
+_u @ index-DJRvTsQX.js:40
+Ia @ index-DJRvTsQX.js:40
+gA @ index-DJRvTsQX.js:40
+Si @ index-DJRvTsQX.js:40
+wv @ index-DJRvTsQX.js:40
+gi @ index-DJRvTsQX.js:38
+(anonymous) @ index-DJRvTsQX.js:40
+index-DJRvTsQX.js:48 
+            
+            
+           GET https://mynovelcraft.com/api/projects/4c99828e-b1f5-436d-8440-2e2c10ad0f11 401 (Unauthorized)
